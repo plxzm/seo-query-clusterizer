@@ -1,0 +1,2 @@
+LoginAPI = ваш логин
+PassAPI = ваш ключ
