@@ -1,0 +1,3 @@
+LoginAPI = ваш логин
+PassAPI = ваш ключ
+Delay = 2
